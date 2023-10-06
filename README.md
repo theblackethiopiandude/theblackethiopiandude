@@ -1,4 +1,15 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+
+# About Me
+
+👨‍💻 Software Engineering Student 
+    
+    Java, C++, Python 
+    Database & Java Swing Pro 
+
+🚀 Crafting code with passion!
+
 
 <!--
 **theblackethiopiandude/theblackethiopiandude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
